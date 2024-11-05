@@ -1,8 +1,9 @@
 <div align="center">
   <a href="https://github.com/ReUlian">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReUlian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReUlian&layout=compact&langs_count=7&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=ReUlian&layout=compact)](https://github.com/anuraghazra/github-readme-stats
-"/>
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+    
 </div><br><br>
 \##
   
